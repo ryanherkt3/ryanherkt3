@@ -70,7 +70,5 @@ I have built two web applications in addition to my previous work experience at 
 - 🪜 An app that shows a live version of the National Rugby League (NRL) ladder whenever a game is being played. There is also support for other NRL-affiliated competitions.
   - **Link:** https://nrl-live-ladder.vercel.app/ladder
 
-### To contact me, click one of the icons below
-
-<a href="mailto:ryanherkt@gmail.com" target="_blank"><img align="left" alt="Gmail" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="30px" /></a>
+### To contact me, click the LinkedIn icon below
 <a href="https://linkedin.com/ryanherkt" target="_blank"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
