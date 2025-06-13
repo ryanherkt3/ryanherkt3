@@ -31,6 +31,7 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" /></a>
 <a href="https://www.w3.org/javascript/" target="_blank"><img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" />
 <a href="https://www.nodejs.org/" target="_blank"><img align="left" alt="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" />
 <a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="30px" />
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" /></a>
