@@ -18,9 +18,7 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 
 <a href="https://angular.dev/" target="_blank"><img align="left" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30px" /></a>
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img align="left" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30px" /></a>
-<a href="https://docker.com/" target="_blank"><img align="left" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" /></a>
 <br />
 <br />
@@ -41,6 +39,8 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" /></a>
 <a href="https://www.php.net" target="_blank"><img align="left" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" /></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" /></a>
+<a href="https://docker.com/" target="_blank"><img align="left" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" /></a>
 <br />
 <br />
 
