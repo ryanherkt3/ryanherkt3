@@ -75,4 +75,4 @@ I have built two full-stack web applications in addition to my previous work exp
 <a href="https://linkedin.com/ryanherkt" target="_blank"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
 <br />
 <br />
-**\*** I will not respond if you work for a recruitment agency.
+**\*** Disclaimer for recruiters: You are welcome to contact me; however, I will cease contact and block you if I am lied to, misled or ghosted - as seems to be the case with nearly every recruiter I have had the misfortune of talking to.
