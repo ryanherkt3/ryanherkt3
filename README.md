@@ -59,7 +59,7 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 
 ### Previous work experience
 
-<a href="https://mega.io/" target="_blank"><img align="left" alt="MEGA The Privacy Company" src="https://mega.io/wp-content/themes/megapages/megalib/images/megaicon.svg" width="30px" /></a> MEGA The Privacy Company (Auckland, NZL) | Software Engineer | May 2022 - November 2024
+<a href="https://mega.io/" target="_blank"><img align="left" alt="MEGA The Privacy Company" src="https://mega.io/wp-content/themes/megapages/megalib/icons/logos/mega.svg" width="30px" /></a> MEGA The Privacy Company (Auckland, NZL) | Software Engineer | May 2022 - November 2024
 <br />
 <br />
 
