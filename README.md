@@ -7,8 +7,8 @@ My name is Ryan, and I am a full-stack developer who is currently looking for a 
 
 🌎 **Locations**
 - 🥝 New Zealand:
-  - Auckland / Hamilton (hybrid / fully remote)
-  - Wellington / Christchurch / Dunedin (fully remote)
+  - Auckland (hybrid / fully remote)
+  - Hamilton, Wellington / Christchurch / Dunedin (fully remote)
 - 🦘 Australia:
   - Melbourne, Sydney, Brisbane, Adelaide, Perth (any)
 
@@ -65,11 +65,14 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 
 ### Personal projects
 
-I have built two web applications in addition to my previous work experience at [MEGA](https://mega.io):
+I have built two full-stack web applications in addition to my previous work experience at [MEGA](https://mega.io):
 - ⚡ A power outages app for the Counties Manukau region of New Zealand, which shows a list of outages and allows users to subscribe to notifications.
   - **Link:** https://outages.ryanherkt.com
 - 🪜 An app that shows a live version of the National Rugby League (NRL) ladder whenever a game is being played. There is also support for other NRL-affiliated competitions.
   - **Link:** https://nrl-live-ladder.vercel.app/ladder
 
-### To contact me, click the LinkedIn icon below
+### To contact me\*, click the LinkedIn icon below
 <a href="https://linkedin.com/ryanherkt" target="_blank"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
+<br />
+<br />
+**\*** I will not respond if you work for a recruitment agency.
