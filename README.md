@@ -71,8 +71,5 @@ I have built two full-stack web applications in addition to my previous work exp
 - 🪜 An app that shows a live version of the National Rugby League (NRL) ladder whenever a game is being played. There is also support for other NRL-affiliated competitions.
   - **Link:** https://nrl-live-ladder.vercel.app/ladder
 
-### To contact me\*, click the LinkedIn icon below
+### To contact me, click the LinkedIn icon below
 <a href="https://linkedin.com/ryanherkt" target="_blank"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
-<br />
-<br />
-**\*** Disclaimer for recruiters: You are welcome to contact me; however, I will cease contact and block you if I am lied to, misled or ghosted - as seems to be the case with nearly every recruiter I have had the misfortune of talking to.
