@@ -10,7 +10,7 @@ My name is Ryan, and I am a full-stack developer who is currently looking for a 
   - Auckland (hybrid / fully remote)
   - Hamilton, Wellington / Christchurch / Dunedin (fully remote)
 - 🦘 Australia:
-  - Melbourne, Sydney, Brisbane, Adelaide, Perth (any)
+  - Melbourne, Sydney, Brisbane, Adelaide (any)
 
 I am a New Zealand citizen, have full, unrestricted working rights in both countries, and can relocate at a moment's notice.
 
@@ -29,10 +29,14 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" /></a>
 <a href="https://www.w3.org/javascript/" target="_blank"><img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
+<a href="https://json.org/" target="_blank"><img align="left" alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="30px" />
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" />
 <a href="https://www.nodejs.org/" target="_blank"><img align="left" alt="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" />
 <a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="30px" />
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" /></a>
+<a href="https://react-redux.js.org/" target="_blank"><img align="left" alt="React Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px" /></a>
+<a href="https://supabase.com/" target="_blank"><img align="left" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30px" /></a>
+<a href="https://mdxjs.com/" target="_blank"><img align="left" alt="MDX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30px" /></a>
 <a href="https://wordpress.com/" target="_blank"><img align="left" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="30px" /></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" /></a>
@@ -47,11 +51,13 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 ### Software I have used
 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" /></a>
+<a href="https://linux.org/" target="_blank"><img align="left" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" /></a>
 <a href="https://slack.com/" target="_blank"><img align="left" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="30px" /></a>
 <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" /></a>
 <a href="https://gitlab.com/" target="_blank"><img align="left" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="30px" /></a>
 <a href="https://figma.com/" target="_blank"><img align="left" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30px" /></a>
 <a href="https://vercel.com/" target="_blank"><img align="left" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="30px" /></a>
+<a href="https://www.browserstack.com" target="_blank"><img align="left" alt="BrowserStack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg" width="30px" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img align="left" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="30px" /></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank"><img align="left" alt="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="30px" /></a>
 <br />
@@ -65,11 +71,13 @@ I am a New Zealand citizen, have full, unrestricted working rights in both count
 
 ### Personal projects
 
-I have built two full-stack web applications in addition to my previous work experience at [MEGA](https://mega.io):
+I have built three full-stack web applications in addition to my previous work experience at [MEGA](https://mega.io):
 - ⚡ A power outages app for the Counties Manukau region of New Zealand, which shows a list of outages and allows users to subscribe to notifications.
   - **Link:** https://outages.ryanherkt.com
 - 🪜 An app that shows a live version of the National Rugby League (NRL) ladder whenever a game is being played. There is also support for other NRL-affiliated competitions.
   - **Link:** https://nrl-live-ladder.vercel.app/ladder
+- 💻 My website.
+  - **Link:** https://ryanherkt.com
 
 ### To contact me, click the LinkedIn icon below
 <a href="https://linkedin.com/ryanherkt" target="_blank"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
