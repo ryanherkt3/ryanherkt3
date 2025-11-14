@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-My name is Ryan, and I am a full-stack developer.
+My name is Ryan, and I am a full-stack developer currently working at Supa Energy.
 
 ### Previous work experience
 
 <a href="https://mega.io/" target="_blank"><img align="left" alt="MEGA The Privacy Company" src="https://mega.io/wp-content/themes/megapages/megalib/icons/logos/mega.svg" width="30px" /></a> MEGA The Privacy Company (Auckland, NZL) | Software Engineer | May 2022 - November 2024
+
+Supa Energy (Auckland, NZL) | Intermediate Full Stack Software Engineer | November 2025 - 
+
 <br />
 <br />
 
